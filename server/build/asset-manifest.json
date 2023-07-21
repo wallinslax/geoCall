@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3ac8616.css",
+    "main.js": "/static/js/main.1876f53b.js",
+    "static/media/call-icon.svg": "/static/media/call-icon.0cafc50027813d1768c69c141c0f3fcd.svg",
+    "static/media/call-disconnect-icon.svg": "/static/media/call-disconnect-icon.b0af6baee2be1893a823993f01dc972d.svg",
+    "static/media/chat-icon.svg": "/static/media/chat-icon.9d50d6488411080bded9077982c384dd.svg",
+    "static/media/camera-icon.svg": "/static/media/camera-icon.fb7b5362d4cff88de657585fe590cb25.svg",
+    "static/media/camera-off-icon.svg": "/static/media/camera-off-icon.04927349efcde427237d02e65b521e46.svg",
+    "static/media/mic-off-icon.svg": "/static/media/mic-off-icon.c1951c55573b356b2ae982eda955c559.svg",
+    "static/media/mic-icon.svg": "/static/media/mic-icon.8acc864e256b0b9a047a8353c09d1876.svg",
+    "static/media/close-icon.svg": "/static/media/close-icon.ef4ba258e48fe5b58913dd1e035fd0ac.svg",
+    "static/media/location-icon.svg": "/static/media/location-icon.f2cc0ee377db2ceed7b22acf03fc8c4d.svg",
+    "index.html": "/index.html",
+    "main.b3ac8616.css.map": "/static/css/main.b3ac8616.css.map",
+    "main.1876f53b.js.map": "/static/js/main.1876f53b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3ac8616.css",
+    "static/js/main.1876f53b.js"
+  ]
+}
