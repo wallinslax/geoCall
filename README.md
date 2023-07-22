@@ -1,7 +1,7 @@
 # mapChat
 online users will show on map and can communicate with each other via message and video call
 
-## Try  :point_right: [here](https://cr.spaceflow.in/login)
+<!-- ## Try  :point_right: [here](https://cr.spaceflow.in/login) -->
 
 ## Demo
 
